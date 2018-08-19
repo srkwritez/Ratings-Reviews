@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataApiResponse xmlns="http://www.bazaarvoice.com/xs/DataApiQuery/5.4">
+    <Results>
+        <Review id="192629">
+            <ModerationStatus>APPROVED</ModerationStatus>
+            <LastModificationTime>2011-06-30T21:19:07.000+00:00</LastModificationTime>
+            <IsRatingsOnly>false</IsRatingsOnly>
+            <Title>Test review</Title>
+            <ReviewText>test text for review &gt;&gt; test text for review &gt;&gt; test text for review &gt;&gt; test text for review &gt;&gt; test text for review &gt;&gt; test text for review &gt;&gt; test text for review &gt;&gt; test text for review &gt;&gt; test text for review &gt;&gt; test text for review &gt;&gt; test text for review &gt;&gt; test text for review &gt;&gt; test text for review &gt;&gt; test text for review &gt;&gt; test text for review &gt;&gt; test text for review &gt;&gt; test text for review &gt;&gt; test text for review &gt;&gt; test text for review &gt;&gt; test text for review &gt;&gt;</ReviewText>
+            <TotalCommentCount>2</TotalCommentCount>
+            <TagDimensions>
+                <TagDimension id="Pro">
+                    <Label>Pros</Label>
+                    <Values>
+                        <Value>Pro 2</Value>
+                        <Value>Example of wordy Pro value</Value>
+                        <Value>Pro 1</Value>
+                        <Value>test 4</Value>
+                    </Values>
+                </TagDimension>
+                <TagDimension id="Con">
+                    <Label>Cons</Label>
+                    <Values>
+                        <Value>Example of wordy Con value</Value>
+                        <Value>Con 1</Value>
+                        <Value>Con 2</Value>
+                        <Value>test con 4</Value>
+                    </Values>
+                </TagDimension>
+            </TagDimensions>
+            <Rating>5</Rating>
+            <RatingRange>5</RatingRange>
+            <IsRecommended>false</IsRecommended>
+            <TotalFeedbackCount>0</TotalFeedbackCount>
+            <TotalPositiveFeedbackCount>0</TotalPositiveFeedbackCount>
+            <TotalNegativeFeedbackCount>0</TotalNegativeFeedbackCount>
+            <UserNickname>Tester13</UserNickname>
+            <UserLocation>Test city</UserLocation>
+            <IPAddress xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <ContentLocale>en_US</ContentLocale>
+            <SubmissionTime>2011-02-03T07:52:44.000+00:00</SubmissionTime>
+            <Badges>
+                <Badge id="featured">
+                    <ContentType>REVIEW</ContentType>
+                    <BadgeType>Custom</BadgeType>
+                </Badge>
+            </Badges>
+            <IsFeatured>true</IsFeatured>
+            <Photos>
+                <Photo id="80560">
+                    <Caption>test test testtetest test testtest test ttest test testtest test testestst test test</Caption>
+                    <Sizes>
+                        <Size id="thumbnail" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/5fad5171-af60-5805-a4d8-cd3e52fe6247"/>
+                        <Size id="normal" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/99e822c5-62c8-531e-90bd-3e7684bd1427"/>
+                    </Sizes>
+                </Photo>
+                <Photo id="80561">
+                    <Sizes>
+                        <Size id="thumbnail" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/1a08119c-a982-51e0-880b-e2f3e0d2fc83"/>
+                        <Size id="normal" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/d420708f-bca3-5825-84ef-61f77712e92b"/>
+                    </Sizes>
+                </Photo>
+                <Photo id="80562">
+                    <Sizes>
+                        <Size id="thumbnail" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/fa8f3768-4223-5ce6-949c-9388c1fa02c6"/>
+                        <Size id="normal" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/6965ff0d-c279-5f8e-8aee-91d1dd62a978"/>
+                    </Sizes>
+                </Photo>
+                <Photo id="80563">
+                    <Sizes>
+                        <Size id="thumbnail" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/3b84f392-00fc-5c94-8948-013765b29f29"/>
+                        <Size id="normal" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/10c99fdc-29ed-54bb-9a2e-4e480d717357"/>
+                    </Sizes>
+                </Photo>
+                <Photo id="80564">
+                    <Sizes>
+                        <Size id="thumbnail" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/e9ed79f1-38d8-55ec-ac7b-c74d42560ea3"/>
+                        <Size id="normal" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/f7afa246-e6a3-5bc0-ad05-1a0b48106de1"/>
+                    </Sizes>
+                </Photo>
+                <Photo id="80565">
+                    <Sizes>
+                        <Size id="thumbnail" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/b63aa929-99fb-5eab-b219-b424a6fc223f"/>
+                        <Size id="normal" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/c52fcdc9-65ce-55d1-9951-adbd5a39dce6"/>
+                    </Sizes>
+                </Photo>
+            </Photos>
+            <Videos>
+                <Video>
+                    <Caption>Test Caption for video</Caption>
+                    <VideoHost>www.youtube.com</VideoHost>
+                    <VideoId>3ewhQg5zvX4</VideoId>
+                    <VideoUrl>https://www.youtube.com/v/3ewhQg5zvX4&amp;rel=0</VideoUrl>
+                    <VideoThumbnailUrl>https://img.youtube.com/vi/3ewhQg5zvX4/0.jpg</VideoThumbnailUrl>
+                    <VideoIframeUrl>https://www.youtube.com/embed/3ewhQg5zvX4</VideoIframeUrl>
+                </Video>
+            </Videos>
+            <LastModeratedTime>2011-06-30T21:19:05.000+00:00</LastModeratedTime>
+            <ProductId>1000001</ProductId>
+            <AuthorId>iv90z98yzc0</AuthorId>
+            <IsSyndicated>false</IsSyndicated>
+        </Review>
+        <Review id="192586">
+            <ModerationStatus>APPROVED</ModerationStatus>
+            <LastModificationTime>2011-06-30T21:18:24.000+00:00</LastModificationTime>
+            <IsRatingsOnly>false</IsRatingsOnly>
+            <Title>TEST CHR STG 11111</Title>
+            <ReviewText>TEST CHR STG 1TEST CHR STGTEST CHR STG 1TEST CHR STGTEST CHR STG 1TEST CHR STGTEST CHR STG 1TEST CHR STGTEST CHR STG 1TEST CHR STGTEST CHR STG 1TEST CHR STGTEST CHR STG 1TEST CHR STGTEST CHR STG 1TEST CHR STGTEST CHR STG 1TEST CHR STGTEST CHR STG 1TEST CHR STGTEST CHR STG 1TEST CHR STGTEST CHR STG 1TEST CHR STGTEST CHR STG 1TEST CHR STGTEST CHR STG 1TEST CHR STGTEST CHR STG 1TEST CHR STGTEST CHR STG 1TEST CHR STGTEST CHR STG 1TEST CHR STGTEST CHR STG 1TEST CHR STGTEST CHR STG 1TEST CHR STG1 1111111111</ReviewText>
+            <TotalCommentCount>3</TotalCommentCount>
+            <TagDimensions>
+                <TagDimension id="Pro">
+                    <Label>Pros</Label>
+                    <Values>
+                        <Value>Pro 2</Value>
+                        <Value>Example of wordy Pro value</Value>
+                        <Value>Pro 1</Value>
+                        <Value>df dfh</Value>
+                        <Value>adfh34 frg</Value>
+                        <Value>rg 34 ge4 g</Value>
+                        <Value>34 t q34</Value>
+                        <Value>q34t q3 q34</Value>
+                        <Value>q34</Value>
+                        <Value>ru6 e45y q3</Value>
+                        <Value>35y 34t e56u8</Value>
+                        <Value>5e7 e5 i56i</Value>
+                        <Value>e5i 5iksw</Value>
+                    </Values>
+                </TagDimension>
+                <TagDimension id="Con">
+                    <Label>Cons</Label>
+                    <Values>
+                        <Value>Example of wordy Con value</Value>
+                        <Value>Con 1</Value>
+                        <Value>Con 2</Value>
+                        <Value>i6 6i</Value>
+                        <Value>57i57i</Value>
+                        <Value>e57i w56u8 sw56u8sw56</Value>
+                        <Value>i8sw56w ut5isw5</Value>
+                        <Value>i6i 4 sw</Value>
+                        <Value>6 6sw 6 sw46</Value>
+                        <Value>u8sw sw56ui</Value>
+                        <Value>swu6sw</Value>
+                        <Value>w4u76idet57i</Value>
+                        <Value>57i ey7 h7</Value>
+                    </Values>
+                </TagDimension>
+            </TagDimensions>
+            <Rating>5</Rating>
+            <RatingRange>5</RatingRange>
+            <TotalFeedbackCount>0</TotalFeedbackCount>
+            <TotalPositiveFeedbackCount>0</TotalPositiveFeedbackCount>
+            <TotalNegativeFeedbackCount>0</TotalNegativeFeedbackCount>
+            <UserNickname>ytrerdfg</UserNickname>
+            <UserLocation>aerfasdf dfasd</UserLocation>
+            <IPAddress xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <ContentLocale>en_US</ContentLocale>
+            <SubmissionTime>2011-01-31T14:06:10.000+00:00</SubmissionTime>
+            <IsFeatured>false</IsFeatured>
+            <Photos>
+                <Photo id="80450">
+                    <Caption>sfg sfgh fgh</Caption>
+                    <Sizes>
+                        <Size id="thumbnail" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/ffff22f5-2e9a-5389-9cee-0802bed15b69"/>
+                        <Size id="normal" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/ba4e74d1-91c6-5aeb-9b7d-86ed468347c7"/>
+                    </Sizes>
+                </Photo>
+                <Photo id="80451">
+                    <Caption>sf gfghsf</Caption>
+                    <Sizes>
+                        <Size id="thumbnail" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/d3c2971f-6358-543a-a062-1caf3c77b37e"/>
+                        <Size id="normal" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/efbc1f4d-d568-5dd0-9553-aad41a02cb3a"/>
+                    </Sizes>
+                </Photo>
+                <Photo id="80452">
+                    <Caption>sfg ghtr</Caption>
+                    <Sizes>
+                        <Size id="thumbnail" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/d5f5408f-af25-51fe-8292-bde771b178af"/>
+                        <Size id="normal" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/ec3a99be-9d73-5aca-bfdf-5d7942c7eeec"/>
+                    </Sizes>
+                </Photo>
+                <Photo id="80453">
+                    <Caption>fgh sdfh er</Caption>
+                    <Sizes>
+                        <Size id="thumbnail" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/680f60b7-28e1-5877-8c95-758cdec079d8"/>
+                        <Size id="normal" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/fa35527a-dc0a-5a56-8274-77879c8a0649"/>
+                    </Sizes>
+                </Photo>
+                <Photo id="80454">
+                    <Caption>df adfhadf</Caption>
+                    <Sizes>
+                        <Size id="thumbnail" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/be5883f0-67f6-5b8e-b9d7-09282b97fac9"/>
+                        <Size id="normal" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/744986e3-df00-58f9-af31-6f07b25e037b"/>
+                    </Sizes>
+                </Photo>
+                <Photo id="80455">
+                    <Caption>dfg sfhsdf</Caption>
+                    <Sizes>
+                        <Size id="thumbnail" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/4ab6e07f-ef5b-5c94-9ac6-2a38edc34161"/>
+                        <Size id="normal" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/bcdb262a-225b-5213-972f-f8fadfa78764"/>
+                    </Sizes>
+                </Photo>
+            </Photos>
+            <Videos>
+                <Video>
+                    <Caption>sdfg adfg h</Caption>
+                    <VideoHost>www.youtube.com</VideoHost>
+                    <VideoId>QA5vB3uRpQE</VideoId>
+                    <VideoUrl>https://www.youtube.com/v/QA5vB3uRpQE&amp;rel=0</VideoUrl>
+                    <VideoThumbnailUrl>https://img.youtube.com/vi/QA5vB3uRpQE/0.jpg</VideoThumbnailUrl>
+                    <VideoIframeUrl>https://www.youtube.com/embed/QA5vB3uRpQE</VideoIframeUrl>
+                </Video>
+            </Videos>
+            <LastModeratedTime>2011-06-30T21:18:21.000+00:00</LastModeratedTime>
+            <ProductId>1000001</ProductId>
+            <AuthorId>jj08gvf9f5s</AuthorId>
+            <IsSyndicated>false</IsSyndicated>
+        </Review>
+        <Review id="192624">
+            <ModerationStatus>APPROVED</ModerationStatus>
+            <LastModificationTime>2011-06-30T21:18:59.000+00:00</LastModificationTime>
+            <IsRatingsOnly>false</IsRatingsOnly>
+            <Title>TEST&gt;&gt; I came in the store wanting to try 4 other dresses, and didnt even notice this one. I walked by a huge poster, and this beautiful dress caught</Title>
+            <ReviewText>TEST&gt;&gt; I came in the store wanting to try 4 other dresses, and didnt even notice this one. I walked by a huge poster, and this beautiful dress caught my eye! It ended up being the first dress I tried on, and it was right then, that I knew this was the right dress. After this dress, I tried on 4 other ones, but decided on buying this one. It fits sooooo perfectly, and it gives your body a wonderful shape.test
+I love this dress sooooooo much!!</ReviewText>
+            <TotalCommentCount>1</TotalCommentCount>
+            <TagDimensions>
+                <TagDimension id="Pro">
+                    <Label>Pros</Label>
+                    <Values>
+                        <Value>Pro 2</Value>
+                        <Value>Example of wordy Pro value</Value>
+                        <Value>Pro 1</Value>
+                        <Value>gh</Value>
+                        <Value>rtghsrt</Value>
+                        <Value>ghsrtghsrtghsrt</Value>
+                        <Value>gshrtgh</Value>
+                        <Value>rtghsrtg</Value>
+                        <Value>hrthrt</Value>
+                        <Value>hsrthsr</Value>
+                        <Value>thsrthsrthsrthsr</Value>
+                        <Value>thsrthsrth</Value>
+                        <Value>srthsrth</Value>
+                    </Values>
+                </TagDimension>
+                <TagDimension id="Con">
+                    <Label>Cons</Label>
+                    <Values>
+                        <Value>Example of wordy Con value</Value>
+                        <Value>Con 1</Value>
+                        <Value>Con 2</Value>
+                        <Value>srtghs</Value>
+                        <Value>srthsrthsrthsrthsrth</Value>
+                        <Value>srthsrt</Value>
+                        <Value>hsrths</Value>
+                        <Value>rthsrth</Value>
+                        <Value>srthsr</Value>
+                        <Value>thsrths</Value>
+                        <Value>srthsrthsrth</Value>
+                        <Value>srthsrth</Value>
+                    </Values>
+                </TagDimension>
+            </TagDimensions>
+            <Rating>5</Rating>
+            <RatingRange>5</RatingRange>
+            <IsRecommended>true</IsRecommended>
+            <TotalFeedbackCount>0</TotalFeedbackCount>
+            <TotalPositiveFeedbackCount>0</TotalPositiveFeedbackCount>
+            <TotalNegativeFeedbackCount>0</TotalNegativeFeedbackCount>
+            <UserNickname>sdghsrtghsrth</UserNickname>
+            <UserLocation>TEST&gt;&gt; I came in the store wanting to try 4 other</UserLocation>
+            <IPAddress xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <ContentLocale>en_US</ContentLocale>
+            <SubmissionTime>2011-02-01T13:26:42.000+00:00</SubmissionTime>
+            <IsFeatured>false</IsFeatured>
+            <Photos>
+                <Photo id="80535">
+                    <Sizes>
+                        <Size id="thumbnail" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/8329f222-115f-5a25-92c2-902954ae50f4"/>
+                        <Size id="normal" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/af7543a5-3a5d-5b6a-9f5b-51305215566f"/>
+                    </Sizes>
+                </Photo>
+                <Photo id="80536">
+                    <Sizes>
+                        <Size id="thumbnail" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/6d26bf3b-37fb-5fb9-bfa7-88b27cafb2d3"/>
+                        <Size id="normal" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/12c5215b-2be0-5b85-a24f-77f4bec5c7bd"/>
+                    </Sizes>
+                </Photo>
+                <Photo id="80537">
+                    <Sizes>
+                        <Size id="thumbnail" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/4d996c3d-e511-553b-a1af-87d07bdb5686"/>
+                        <Size id="normal" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/e82ba742-49a5-589c-8b10-aed244bc1772"/>
+                    </Sizes>
+                </Photo>
+                <Photo id="80538">
+                    <Sizes>
+                        <Size id="thumbnail" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/c9590eb8-a4df-5e28-9083-45efeecf777f"/>
+                        <Size id="normal" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/9c5e9518-0bf4-5aa5-8861-f6a888a22e5c"/>
+                    </Sizes>
+                </Photo>
+                <Photo id="80539">
+                    <Sizes>
+                        <Size id="thumbnail" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/396d268c-acfa-5b67-ad91-22177d1a5dab"/>
+                        <Size id="normal" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/9b364217-6bc1-5da1-bc35-70294dfd8c50"/>
+                    </Sizes>
+                </Photo>
+                <Photo id="80540">
+                    <Sizes>
+                        <Size id="thumbnail" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/8faf08a0-b88f-55fa-9dea-f3fe890c7855"/>
+                        <Size id="normal" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/0e0823ab-1020-543a-8d71-3446f67d14ee"/>
+                    </Sizes>
+                </Photo>
+            </Photos>
+            <Videos>
+                <Video>
+                    <Caption>TEST&gt;&gt; I came in the store wanting to try 4 other dresses, and didnt even notice this one. I walked by a huge poster, and this beautiful dress caught my eye! It ended up being the first dress I tried on, and it was right then, that I knew this was the rig</Caption>
+                    <VideoHost>www.youtube.com</VideoHost>
+                    <VideoId>s13dLaTIHSg</VideoId>
+                    <VideoUrl>https://www.youtube.com/v/s13dLaTIHSg&amp;rel=0</VideoUrl>
+                    <VideoThumbnailUrl>https://img.youtube.com/vi/s13dLaTIHSg/0.jpg</VideoThumbnailUrl>
+                    <VideoIframeUrl>https://www.youtube.com/embed/s13dLaTIHSg</VideoIframeUrl>
+                </Video>
+            </Videos>
+            <LastModeratedTime>2011-06-30T21:18:57.000+00:00</LastModeratedTime>
+            <ProductId>1000001</ProductId>
+            <AuthorId>2ztfebw8au0</AuthorId>
+            <IsSyndicated>false</IsSyndicated>
+        </Review>
+        <Review id="192559">
+            <ModerationStatus>APPROVED</ModerationStatus>
+            <LastModificationTime>2011-06-30T21:17:49.000+00:00</LastModificationTime>
+            <IsRatingsOnly>false</IsRatingsOnly>
+            <Title>TEST&gt;&gt; I came in the store wanting to try 4 other dresses, and didnt even notice this one. I walked by a huge poster, and this beautiful dress caught</Title>
+            <ReviewText>TEST&gt;&gt; I came in the store wanting to try 4 other dresses, and didnt even notice this one. I walked by a huge poster, and this beautiful dress caught my eye! It ended up being the first dress I tried on, and it was right then, that I knew this was the right dress. After this dress, I tried on 4 other ones, but decided on buying this one. It fits sooooo perfectly, and it gives your body a wonderful shape.test
+I love this dress sooooooo much!!</ReviewText>
+            <TotalCommentCount>1</TotalCommentCount>
+            <TagDimensions>
+                <TagDimension id="Pro">
+                    <Label>Pros</Label>
+                    <Values>
+                        <Value>Example of wordy Pro value</Value>
+                        <Value>Pro 2</Value>
+                        <Value>Pro 1</Value>
+                        <Value>hjghj</Value>
+                        <Value>cghjc</Value>
+                        <Value>ghjcghjc</Value>
+                        <Value>ghjc</Value>
+                        <Value>ghjcgh</Value>
+                        <Value>jcghj</Value>
+                        <Value>yjhcgyjh</Value>
+                        <Value>cgyjh</Value>
+                    </Values>
+                </TagDimension>
+                <TagDimension id="Con">
+                    <Label>Cons</Label>
+                    <Values>
+                        <Value>Example of wordy Con value</Value>
+                        <Value>Con 1</Value>
+                        <Value>Con 2</Value>
+                        <Value>yhjcyhj</Value>
+                        <Value>cyhjc</Value>
+                        <Value>gyjhcg</Value>
+                        <Value>yhcfgy</Value>
+                        <Value>jcfygjf</Value>
+                        <Value>xgjfcgy</Value>
+                        <Value>cjhgf</Value>
+                        <Value>yjhcg</Value>
+                        <Value>yjhcgyjhc</Value>
+                        <Value>gyjh</Value>
+                    </Values>
+                </TagDimension>
+            </TagDimensions>
+            <Rating>5</Rating>
+            <RatingRange>5</RatingRange>
+            <IsRecommended>false</IsRecommended>
+            <TotalFeedbackCount>0</TotalFeedbackCount>
+            <TotalPositiveFeedbackCount>0</TotalPositiveFeedbackCount>
+            <TotalNegativeFeedbackCount>0</TotalNegativeFeedbackCount>
+            <UserNickname>fyjhtgyjhtgjh</UserNickname>
+            <UserLocation>TEST&gt;&gt; I came in the store wanting to try 4 other</UserLocation>
+            <IPAddress xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <ContentLocale>en_US</ContentLocale>
+            <SubmissionTime>2011-04-05T13:40:37.000+00:00</SubmissionTime>
+            <IsFeatured>false</IsFeatured>
+            <Photos>
+                <Photo id="80318">
+                    <Caption>TEST&gt;&gt; I came in the store wanting to try 4 other dresses, and didnt even notice this one. I walked by a huge poster, and this beautiful dress caught my eye! It ended up being the first dress I tried on, and it was right then, that I knew this was the rig</Caption>
+                    <Sizes>
+                        <Size id="thumbnail" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/fd19c8a6-3883-5c6b-b92e-af6734c00a91"/>
+                        <Size id="normal" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/d6677108-dd03-513c-b616-e8cad7c15f20"/>
+                    </Sizes>
+                </Photo>
+                <Photo id="80319">
+                    <Caption>TEST&gt;&gt; I came in the store wanting to try 4 other dresses, and didnt even notice this one. I walked by a huge poster, and this beautiful dress caught my eye! It ended up being the first dress I tried on, and it was right then, that I knew this was the rig</Caption>
+                    <Sizes>
+                        <Size id="thumbnail" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/5d443906-09c4-53f7-9415-4235f4708b6e"/>
+                        <Size id="normal" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/0fd9a347-0d54-5a3d-8778-cfef39e5f488"/>
+                    </Sizes>
+                </Photo>
+                <Photo id="80320">
+                    <Caption>TEST&gt;&gt; I came in the store wanting to try 4 other dresses, and didnt even notice this one. I walked by a huge poster, and this beautiful dress caught my eye! It ended up being the first dress I tried on, and it was right then, that I knew this was the rig</Caption>
+                    <Sizes>
+                        <Size id="thumbnail" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/c3906f83-f739-551b-be71-fca119162e7f"/>
+                        <Size id="normal" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/18870ef1-c560-5822-9389-3b0bd0a1cc3e"/>
+                    </Sizes>
+                </Photo>
+                <Photo id="80321">
+                    <Caption>TEST&gt;&gt; I came in the store wanting to try 4 other dresses, and didnt even notice this one. I walked by a huge poster, and this beautiful dress caught my eye! It ended up being the first dress I tried on, and it was right then, that I knew this was the rig</Caption>
+                    <Sizes>
+                        <Size id="thumbnail" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/031fa558-a4bb-50e3-bfda-990510b0aeb7"/>
+                        <Size id="normal" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/897cc766-4c23-5bcb-ac4b-352cc884b37d"/>
+                    </Sizes>
+                </Photo>
+                <Photo id="80322">
+                    <Caption>TEST&gt;&gt; I came in the store wanting to try 4 other dresses, and didnt even notice this one. I walked by a huge poster, and this beautiful dress caught my eye! It ended up being the first dress I tried on, and it was right then, that I knew this was the rig</Caption>
+                    <Sizes>
+                        <Size id="thumbnail" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/e954da40-a13c-5980-a417-ccb3b878ed6b"/>
+                        <Size id="normal" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/4b8beca2-2c01-5c48-9e93-af1234245a5f"/>
+                    </Sizes>
+                </Photo>
+                <Photo id="80323">
+                    <Caption>TEST&gt;&gt; I came in the store wanting to try 4 other dresses, and didnt even notice this one. I walked by a huge poster, and this beautiful dress caught my eye! It ended up being the first dress I tried on, and it was right then, that I knew this was the rig</Caption>
+                    <Sizes>
+                        <Size id="thumbnail" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/6acfd3c4-11a3-50fe-995e-828a60ee1aea"/>
+                        <Size id="normal" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/be1d74a1-d4a5-5e7e-b75b-75d3504ec153"/>
+                    </Sizes>
+                </Photo>
+            </Photos>
+            <Videos>
+                <Video>
+                    <Caption>TEST&gt;&gt; I came in the store wanting to try 4 other dresses, and didnt even notice this one. I walked by a huge poster, and this beautiful dress caught my eye! It ended up being the first dress I tried on, and it was right then, that I knew this was the rig</Caption>
+                    <VideoHost>www.youtube.com</VideoHost>
+                    <VideoId>hWCQrbWUxsU</VideoId>
+                    <VideoUrl>https://www.youtube.com/v/hWCQrbWUxsU&amp;rel=0</VideoUrl>
+                    <VideoThumbnailUrl>https://img.youtube.com/vi/hWCQrbWUxsU/0.jpg</VideoThumbnailUrl>
+                    <VideoIframeUrl>https://www.youtube.com/embed/hWCQrbWUxsU</VideoIframeUrl>
+                </Video>
+            </Videos>
+            <LastModeratedTime>2011-06-30T21:17:48.000+00:00</LastModeratedTime>
+            <ProductId>1000001</ProductId>
+            <AuthorId>i1zfp30snow</AuthorId>
+            <IsSyndicated>false</IsSyndicated>
+        </Review>
+        <Review id="192548">
+            <ModerationStatus>APPROVED</ModerationStatus>
+            <LastModificationTime>2017-05-31T17:15:00.000+00:00</LastModificationTime>
+            <IsRatingsOnly>false</IsRatingsOnly>
+            <Title>test&gt;&gt; review summary</Title>
+            <ReviewText>test&gt;&gt; test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text</ReviewText>
+            <TotalCommentCount>5</TotalCommentCount>
+            <TagDimensions>
+                <TagDimension id="Pro">
+                    <Label>Pros</Label>
+                    <Values>
+                        <Value>Pro 2</Value>
+                        <Value>Example of wordy Pro value</Value>
+                        <Value>Pro 1</Value>
+                        <Value>qwe</Value>
+                        <Value>wer</Value>
+                        <Value>ert</Value>
+                        <Value>rty</Value>
+                        <Value>tyu</Value>
+                        <Value>yui</Value>
+                        <Value>uio</Value>
+                        <Value>iop</Value>
+                        <Value>asd</Value>
+                        <Value>sdf</Value>
+                    </Values>
+                </TagDimension>
+                <TagDimension id="Con">
+                    <Label>Cons</Label>
+                    <Values>
+                        <Value>Example of wordy Con value</Value>
+                        <Value>Con 1</Value>
+                        <Value>Con 2</Value>
+                        <Value>dfg</Value>
+                        <Value>fgh</Value>
+                        <Value>ghj</Value>
+                        <Value>hjk</Value>
+                        <Value>jkl</Value>
+                        <Value>zxc</Value>
+                        <Value>xcv</Value>
+                        <Value>cvb</Value>
+                        <Value>vbn</Value>
+                        <Value>bnm</Value>
+                    </Values>
+                </TagDimension>
+            </TagDimensions>
+            <Rating>5</Rating>
+            <RatingRange>5</RatingRange>
+            <IsRecommended>true</IsRecommended>
+            <TotalFeedbackCount>0</TotalFeedbackCount>
+            <TotalPositiveFeedbackCount>0</TotalPositiveFeedbackCount>
+            <TotalNegativeFeedbackCount>0</TotalNegativeFeedbackCount>
+            <UserNickname>tesss</UserNickname>
+            <UserLocation>New York, NY</UserLocation>
+            <IPAddress xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <ContentLocale>en_US</ContentLocale>
+            <SubmissionTime>2011-04-06T16:53:04.000+00:00</SubmissionTime>
+            <Badges>
+                <Badge id="featured">
+                    <ContentType>REVIEW</ContentType>
+                    <BadgeType>Custom</BadgeType>
+                </Badge>
+            </Badges>
+            <IsFeatured>true</IsFeatured>
+            <Photos>
+                <Photo id="80206">
+                    <Caption>test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test tes</Caption>
+                    <Sizes>
+                        <Size id="thumbnail" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/dca3e374-92a8-5a4a-a941-95be558ddf3c"/>
+                        <Size id="normal" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/6f1f3ed8-13d0-5041-8350-58093b515746"/>
+                    </Sizes>
+                </Photo>
+                <Photo id="80207">
+                    <Caption>test test test test test</Caption>
+                    <Sizes>
+                        <Size id="thumbnail" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/34b46d14-3298-5fdc-bb51-387934ccffc0"/>
+                        <Size id="normal" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/245e9b08-9197-54e3-85f4-9522f90f4527"/>
+                    </Sizes>
+                </Photo>
+                <Photo id="80208">
+                    <Caption>test test test test</Caption>
+                    <Sizes>
+                        <Size id="thumbnail" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/10fa163d-7fd0-5bce-8392-086e187751e6"/>
+                        <Size id="normal" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/e1ad425c-c3ed-5899-9338-110aba2ff8d4"/>
+                    </Sizes>
+                </Photo>
+                <Photo id="80209">
+                    <Caption>test test test</Caption>
+                    <Sizes>
+                        <Size id="thumbnail" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/0c2dbc79-55ae-59d4-9c95-5d4a98978c99"/>
+                        <Size id="normal" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/e366fe1f-56d8-53e7-9d23-5bb88915ee43"/>
+                    </Sizes>
+                </Photo>
+                <Photo id="80210">
+                    <Caption>test test</Caption>
+                    <Sizes>
+                        <Size id="thumbnail" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/2d28c179-b397-51f8-86c8-8f7ce0b075d3"/>
+                        <Size id="normal" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/8f8e44e4-37af-51e7-b768-ff04b784fc05"/>
+                    </Sizes>
+                </Photo>
+                <Photo id="80211">
+                    <Caption>test</Caption>
+                    <Sizes>
+                        <Size id="thumbnail" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/d55ca4c3-37f9-50b9-a6fc-b2fb8d7783d8"/>
+                        <Size id="normal" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/c83a7da1-8e9d-5411-8f31-8a850aeb7a2d"/>
+                    </Sizes>
+                </Photo>
+            </Photos>
+            <Videos>
+                <Video>
+                    <Caption>test &gt;&gt; test video caption test video caption test video caption test video caption test video caption test video caption test video caption t</Caption>
+                    <VideoHost>www.youtube.com</VideoHost>
+                    <VideoId>wUakDOHAmVg</VideoId>
+                    <VideoUrl>https://www.youtube.com/v/wUakDOHAmVg&amp;rel=0</VideoUrl>
+                    <VideoThumbnailUrl>https://img.youtube.com/vi/wUakDOHAmVg/0.jpg</VideoThumbnailUrl>
+                    <VideoIframeUrl>https://www.youtube.com/embed/wUakDOHAmVg</VideoIframeUrl>
+                </Video>
+            </Videos>
+            <LastModeratedTime>2011-06-30T21:17:13.000+00:00</LastModeratedTime>
+            <ProductId>1000001</ProductId>
+            <AuthorId>4bn4ndfwf94</AuthorId>
+            <IsSyndicated>false</IsSyndicated>
+        </Review>
+        <Review id="192640">
+            <ModerationStatus>APPROVED</ModerationStatus>
+            <LastModificationTime>2011-06-30T21:19:21.000+00:00</LastModificationTime>
+            <IsRatingsOnly>false</IsRatingsOnly>
+            <Title>teset&gt;&gt; review summary</Title>
+            <ReviewText>test&gt;&gt; test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text test review text</ReviewText>
+            <TotalCommentCount>2</TotalCommentCount>
+            <TagDimensions>
+                <TagDimension id="Pro">
+                    <Label>Pros</Label>
+                    <Values>
+                        <Value>Pro 2</Value>
+                        <Value>Example of wordy Pro value</Value>
+                        <Value>Pro 1</Value>
+                        <Value>test2</Value>
+                        <Value>test</Value>
+                        <Value>test 1</Value>
+                        <Value>test 3</Value>
+                        <Value>test 2</Value>
+                        <Value>test 4</Value>
+                        <Value>test 5</Value>
+                        <Value>test 6</Value>
+                        <Value>test 7</Value>
+                        <Value>test 8</Value>
+                    </Values>
+                </TagDimension>
+                <TagDimension id="Con">
+                    <Label>Cons</Label>
+                    <Values>
+                        <Value>Example of wordy Con value</Value>
+                        <Value>Con 1</Value>
+                        <Value>Con 2</Value>
+                        <Value>t</Value>
+                        <Value>test 1</Value>
+                        <Value>test 1t</Value>
+                        <Value>test 3</Value>
+                        <Value>test 4</Value>
+                        <Value>test 5</Value>
+                        <Value>test 6</Value>
+                        <Value>test 7</Value>
+                        <Value>test 8</Value>
+                        <Value>test 9</Value>
+                    </Values>
+                </TagDimension>
+            </TagDimensions>
+            <Rating>5</Rating>
+            <RatingRange>5</RatingRange>
+            <IsRecommended>true</IsRecommended>
+            <TotalFeedbackCount>0</TotalFeedbackCount>
+            <TotalPositiveFeedbackCount>0</TotalPositiveFeedbackCount>
+            <TotalNegativeFeedbackCount>0</TotalNegativeFeedbackCount>
+            <UserNickname>testerof</UserNickname>
+            <UserLocation>NY</UserLocation>
+            <IPAddress xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <ContentLocale>en_US</ContentLocale>
+            <SubmissionTime>2011-02-01T14:45:34.000+00:00</SubmissionTime>
+            <IsFeatured>false</IsFeatured>
+            <Photos>
+                <Photo id="80602">
+                    <Caption>test 6</Caption>
+                    <Sizes>
+                        <Size id="thumbnail" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/13280e65-659e-506f-a60e-96a884199496"/>
+                        <Size id="normal" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/40edd8fe-174e-5e01-8052-ae2e5878a290"/>
+                    </Sizes>
+                </Photo>
+                <Photo id="80603">
+                    <Caption>test 5</Caption>
+                    <Sizes>
+                        <Size id="thumbnail" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/3d1a7b04-2bbd-5bec-8788-79b2890ddec6"/>
+                        <Size id="normal" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/0454fa30-d58c-5e60-a769-182540f03717"/>
+                    </Sizes>
+                </Photo>
+                <Photo id="80604">
+                    <Caption>test 4</Caption>
+                    <Sizes>
+                        <Size id="thumbnail" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/a223a8f8-26e6-5005-bd8b-1679e826d17a"/>
+                        <Size id="normal" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/39ea6dd0-b7b6-5668-bd18-22382675bfb1"/>
+                    </Sizes>
+                </Photo>
+                <Photo id="80605">
+                    <Caption>test 3</Caption>
+                    <Sizes>
+                        <Size id="thumbnail" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/2f707c4b-c6e5-5325-8fcd-2ebfd0ff1059"/>
+                        <Size id="normal" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/d220e185-9590-5e33-9ddd-d9e389fed98c"/>
+                    </Sizes>
+                </Photo>
+                <Photo id="80606">
+                    <Caption>test 2</Caption>
+                    <Sizes>
+                        <Size id="thumbnail" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/562b462f-fedf-5a84-8169-33aa3518c906"/>
+                        <Size id="normal" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/3786c0f1-4456-506e-ba77-0e336397a741"/>
+                    </Sizes>
+                </Photo>
+                <Photo id="80607">
+                    <Caption>test 1</Caption>
+                    <Sizes>
+                        <Size id="thumbnail" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/c76b40dc-0999-54c9-9967-f2fe0e3eb94b"/>
+                        <Size id="normal" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/4b93d99e-dfaa-5ecc-a062-2ab93c0c8c01"/>
+                    </Sizes>
+                </Photo>
+            </Photos>
+            <Videos>
+                <Video>
+                    <Caption>test&gt;&gt; test video title test video title test video title test video title test video title test video title test video title test video title test video title test video title test video title test video title test video title test video ti</Caption>
+                    <VideoHost>www.youtube.com</VideoHost>
+                    <VideoId>wUakDOHAmVg</VideoId>
+                    <VideoUrl>https://www.youtube.com/v/wUakDOHAmVg&amp;rel=0</VideoUrl>
+                    <VideoThumbnailUrl>https://img.youtube.com/vi/wUakDOHAmVg/0.jpg</VideoThumbnailUrl>
+                    <VideoIframeUrl>https://www.youtube.com/embed/wUakDOHAmVg</VideoIframeUrl>
+                </Video>
+            </Videos>
+            <LastModeratedTime>2011-06-30T21:19:19.000+00:00</LastModeratedTime>
+            <ProductId>1000001</ProductId>
+            <AuthorId>7jre3tm2w00</AuthorId>
+            <IsSyndicated>false</IsSyndicated>
+        </Review>
+        <Review id="192584">
+            <ModerationStatus>APPROVED</ModerationStatus>
+            <LastModificationTime>2011-06-30T21:18:08.000+00:00</LastModificationTime>
+            <IsRatingsOnly>false</IsRatingsOnly>
+            <ReviewText>Nullam volutpat nulla in quam laoreet ut porttitor semmolestie. Aliquam cursus, massa ac faucibus elementum, ligula lectus rutrum tortor, sed blandit leo elit aceros.
+
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpisegestas. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptoshimenaeos. Mauris vel justo nec mi laoreet porta quis utlacus. Fusce sed diam arcu, vel sodaleslacus. Duis ac enim non dui gravida lacinia sed vitaejusto. Donec facilisis quam eget libero accumsanfaucibus. Suspendisse adipiscing, odio eu dictum consectetur, diam nibh interdum leo, id laoreet risus nisl velorci. Praesent sollicitudin massa quis risus rutrum eu placerat purusrhoncus.</ReviewText>
+            <TotalCommentCount>10</TotalCommentCount>
+            <TagDimensions>
+                <TagDimension id="Pro">
+                    <Label>Pros</Label>
+                    <Values>
+                        <Value>Pro 1</Value>
+                        <Value>Pro 2</Value>
+                    </Values>
+                </TagDimension>
+                <TagDimension id="Con">
+                    <Label>Cons</Label>
+                    <Values>
+                        <Value>In semper nibh est, non aliquetmauris. Nam accu</Value>
+                        <Value>Quisque nec velit sit amet</Value>
+                    </Values>
+                </TagDimension>
+            </TagDimensions>
+            <Rating>5</Rating>
+            <RatingRange>5</RatingRange>
+            <IsRecommended>false</IsRecommended>
+            <TotalFeedbackCount>0</TotalFeedbackCount>
+            <TotalPositiveFeedbackCount>0</TotalPositiveFeedbackCount>
+            <TotalNegativeFeedbackCount>0</TotalNegativeFeedbackCount>
+            <UserNickname>TKGZQ</UserNickname>
+            <IPAddress xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <ContentLocale>en_US</ContentLocale>
+            <SubmissionTime>2010-07-21T03:18:56.000+00:00</SubmissionTime>
+            <Badges>
+                <Badge id="top25Contributor">
+                    <ContentType>REVIEW</ContentType>
+                    <BadgeType>Merit</BadgeType>
+                </Badge>
+            </Badges>
+            <IsFeatured>false</IsFeatured>
+            <Photos>
+                <Photo id="80362">
+                    <Caption>Maecenas et diam eu ante tristiqueposuere. Donec adipiscing libero ac elit iaculisiaculis. Donec vestibulum diam et risus pretium sit amet i</Caption>
+                    <Sizes>
+                        <Size id="thumbnail" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/236c1c12-e150-5013-bcd9-ca6d91d3de31"/>
+                        <Size id="normal" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/a2207070-4e42-58a0-ad98-6da8967a66fd"/>
+                    </Sizes>
+                </Photo>
+                <Photo id="80363">
+                    <Caption>Donec sagittis placerat magna nonaliquet. Pellentesque suscipit sollicitudin magna, sed fermentum ante vestibulumac. Maecenas quis nibh at arcu volutpat pharetra quis nontortor. Vestibulum arcu magna, pellentesque non pellen</Caption>
+                    <Sizes>
+                        <Size id="thumbnail" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/f151baee-5093-5cc3-9507-b033ee63ef54"/>
+                        <Size id="normal" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/b38fcb6f-2c61-51e0-a778-dc30b90728d3"/>
+                    </Sizes>
+                </Photo>
+                <Photo id="80364">
+                    <Sizes>
+                        <Size id="thumbnail" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/fd50e65d-51d7-527b-b64e-0f05fef8c295"/>
+                        <Size id="normal" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/f4991446-a14a-5242-88d1-456c29585f11"/>
+                    </Sizes>
+                </Photo>
+            </Photos>
+            <ClientResponses>
+                <ClientResponse>
+                    <Department>Proin p</Department>
+                    <Name>Duis ac enim non d</Name>
+                    <Response>Suspendisse rhoncus, libero non vehicula sodales, nisl lorem vestibulum magna, non condimentum nisl est quisligula. Nullafacilisi.
+
+In tellus diam, mollis ac suscipit non, malesuada sedmetus. Nullam malesuada purus nec tortor convallis vitae consectetur sapiensodales. Nunc lorem neque, condimentum id fermentum a, aliquam sit ametligula. Sed ullamcorper dignissim est idporttitor.</Response>
+                    <ResponseMarkup>
+                        <PlainText>Suspendisse rhoncus, libero non vehicula sodales, nisl lorem vestibulum magna, non condimentum nisl est quisligula. Nullafacilisi.
+
+In tellus diam, mollis ac suscipit non, malesuada sedmetus. Nullam malesuada purus nec tortor convallis vitae consectetur sapiensodales. Nunc lorem neque, condimentum id fermentum a, aliquam sit ametligula. Sed ullamcorper dignissim est idporttitor.</PlainText>
+                    </ResponseMarkup>
+                    <ResponseType>Curabitur sit amet orcil</ResponseType>
+                    <Date>2010-07-21T03:18:56.000+00:00</Date>
+                </ClientResponse>
+            </ClientResponses>
+            <LastModeratedTime>2011-06-30T21:18:02.000+00:00</LastModeratedTime>
+            <ProductId>1000001</ProductId>
+            <AuthorId>data-gen-user-163am5n3ewly8uoco6rqs0g56</AuthorId>
+            <IsSyndicated>false</IsSyndicated>
+        </Review>
+        <Review id="192609">
+            <ModerationStatus>APPROVED</ModerationStatus>
+            <LastModificationTime>2011-06-30T21:18:49.000+00:00</LastModificationTime>
+            <IsRatingsOnly>false</IsRatingsOnly>
+            <Title>TEST&gt;&gt;Review fr</Title>
+            <ReviewText>TEST&gt;&gt;Review fr TEST&gt;&gt;Review fr TEST&gt;&gt;Review fr TEST&gt;&gt;Review fr TEST&gt;&gt;Review fr</ReviewText>
+            <TotalCommentCount>2</TotalCommentCount>
+            <TagDimensions>
+                <TagDimension id="Pro">
+                    <Label>Pros</Label>
+                    <Values>
+                        <Value>Pro 2</Value>
+                        <Value>Pro 1</Value>
+                    </Values>
+                </TagDimension>
+                <TagDimension id="Con">
+                    <Label>Cons</Label>
+                    <Values>
+                        <Value>Con 2</Value>
+                    </Values>
+                </TagDimension>
+            </TagDimensions>
+            <Rating>5</Rating>
+            <RatingRange>5</RatingRange>
+            <IsRecommended>true</IsRecommended>
+            <TotalFeedbackCount>0</TotalFeedbackCount>
+            <TotalPositiveFeedbackCount>0</TotalPositiveFeedbackCount>
+            <TotalNegativeFeedbackCount>0</TotalNegativeFeedbackCount>
+            <UserLocation>NY</UserLocation>
+            <IPAddress xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <ContentLocale>fr</ContentLocale>
+            <SubmissionTime>2010-12-02T12:52:27.000+00:00</SubmissionTime>
+            <IsFeatured>false</IsFeatured>
+            <LastModeratedTime>2011-06-29T00:09:30.000+00:00</LastModeratedTime>
+            <ProductId>1000001</ProductId>
+            <AuthorId>irw3kxjhcr4</AuthorId>
+            <IsSyndicated>false</IsSyndicated>
+        </Review>
+        <Review id="192672">
+            <ModerationStatus>APPROVED</ModerationStatus>
+            <LastModificationTime>2011-06-30T21:19:45.000+00:00</LastModificationTime>
+            <IsRatingsOnly>false</IsRatingsOnly>
+            <Title>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wi</Title>
+            <ReviewText>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+Epsum factorial non deposit quid pro quo hic escorol. Olypian quarrels et gorilla congolium sic ad nauseum. Souvlaki ignitus carborundum e pluribus unum. Defacto lingo est igpay atinlay. Marquee selectus non provisio incongruous feline nolo contendre. Gratuitous octopus niacin, sodium glutimate. Quote meon an estimate et non interruptus stadium. Sic tempus fugit esperanto hiccup estrogen. Glorious baklava ex librus hup hey ad infinitum. Non sequitur condominium facile et geranium incognito. Epsum factorial non deposit quid pro quo hic escorol. Marquee selectus non provisio incongruous feline nolo contendre Olypian quarrels et gorilla congolium sic ad nauseum. Souvlaki ignitus carborundum e pluribus unum.
+Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc., li tot Europa usa li sam vocabularium. Li lingues differe solmen in li grammatica, li pronunciation e li plu commun vocabules. Omnicos directe al desirabilitá de un nov lingua franca: on refusa continuar payar custosi traductores. It solmen va esser necessi far uniform grammatica, pronunciation e plu sommun paroles.
+Ma quande lingues coalesce, li grammatica del resultant lingue es plu simplic e regulari quam ti del coalescent lingues. Li nov lingua franca va esser plu simplic e regulari quam li existent Europan lingues. It va esser tam simplic quam Occidental: in fact, it va esser Occidental. A un Angleso it va semblar un simplificat Angles, quam un skeptic Cambridge amico dit me que Occidental es.</ReviewText>
+            <TotalCommentCount>2</TotalCommentCount>
+            <Rating>4</Rating>
+            <RatingRange>5</RatingRange>
+            <TotalFeedbackCount>0</TotalFeedbackCount>
+            <TotalPositiveFeedbackCount>0</TotalPositiveFeedbackCount>
+            <TotalNegativeFeedbackCount>0</TotalNegativeFeedbackCount>
+            <UserNickname>raargaew</UserNickname>
+            <IPAddress xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <ContentLocale>en_US</ContentLocale>
+            <SubmissionTime>2011-01-31T18:27:05.000+00:00</SubmissionTime>
+            <IsFeatured>false</IsFeatured>
+            <LastModeratedTime>2011-06-29T00:09:44.000+00:00</LastModeratedTime>
+            <ProductId>1000001</ProductId>
+            <AuthorId>wx75ctnqa8</AuthorId>
+            <IsSyndicated>false</IsSyndicated>
+        </Review>
+        <Review id="192585">
+            <ModerationStatus>APPROVED</ModerationStatus>
+            <LastModificationTime>2011-06-30T21:18:19.000+00:00</LastModificationTime>
+            <IsRatingsOnly>false</IsRatingsOnly>
+            <Title>Ut porttitor erat sit amet</Title>
+            <ReviewText>Nam lorem lacus, pellentesque cursus faucibus vitae, tristique etelit. Proin turpis dui, euismod in luctus eget, vehicula neclectus. Lorem ipsum dolor sit amet, consectetur adipiscingelit. Nullam volutpat nulla in quam laoreet ut porttitor semmolestie.</ReviewText>
+            <TotalCommentCount>20</TotalCommentCount>
+            <TagDimensions>
+                <TagDimension id="Pro">
+                    <Label>Pros</Label>
+                    <Values>
+                        <Value>Pro 1</Value>
+                        <Value>Pro 2</Value>
+                        <Value>M</Value>
+                        <Value>Nunc sagittis, quam</Value>
+                        <Value>Morbi laoreet pellentesque</Value>
+                    </Values>
+                </TagDimension>
+                <TagDimension id="Con">
+                    <Label>Cons</Label>
+                    <Values>
+                        <Value>Con 2</Value>
+                        <Value>Pellentesque gravida luctus augue atmol</Value>
+                        <Value>Duis ut</Value>
+                    </Values>
+                </TagDimension>
+            </TagDimensions>
+            <Rating>4</Rating>
+            <RatingRange>5</RatingRange>
+            <TotalFeedbackCount>0</TotalFeedbackCount>
+            <TotalPositiveFeedbackCount>0</TotalPositiveFeedbackCount>
+            <TotalNegativeFeedbackCount>0</TotalNegativeFeedbackCount>
+            <UserNickname>LzOzWFYITcHUd</UserNickname>
+            <UserLocation>S</UserLocation>
+            <IPAddress xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <ContentLocale>en_US</ContentLocale>
+            <SubmissionTime>2010-07-21T03:18:56.000+00:00</SubmissionTime>
+            <Badges>
+                <Badge id="top1Contributor">
+                    <ContentType>REVIEW</ContentType>
+                    <BadgeType>Merit</BadgeType>
+                </Badge>
+            </Badges>
+            <IsFeatured>false</IsFeatured>
+            <Photos>
+                <Photo id="80394">
+                    <Sizes>
+                        <Size id="thumbnail" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/69d5dd27-71b2-5944-8f5f-05c50480feed"/>
+                        <Size id="normal" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/916300bf-5e97-5ad5-8e8e-e23466a18c4e"/>
+                    </Sizes>
+                </Photo>
+                <Photo id="80395">
+                    <Sizes>
+                        <Size id="thumbnail" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/c47bce1a-1f4e-5978-8efc-e80c1383c1b8"/>
+                        <Size id="normal" url="https://photos-uat-eu.bazaarvoice.com/photo/2/cGhvdG86YXBpcmVhZG9ubHlzYW5kYm94/1a388cc2-44cf-52d2-9be8-89f1f8906a67"/>
+                    </Sizes>
+                </Photo>
+            </Photos>
+            <ClientResponses>
+                <ClientResponse>
+                    <Department>Proin porttitor vehicula risus e</Department>
+                    <Name>Quisque fermentum s</Name>
+                    <Response>Fusce ac libero orci, ut temporsem.</Response>
+                    <ResponseMarkup>
+                        <PlainText>Fusce ac libero orci, ut temporsem.</PlainText>
+                    </ResponseMarkup>
+                    <ResponseType>Et</ResponseType>
+                    <Date>2010-07-21T03:18:56.000+00:00</Date>
+                </ClientResponse>
+            </ClientResponses>
+            <LastModeratedTime>2011-06-30T21:18:08.000+00:00</LastModeratedTime>
+            <ProductId>1000001</ProductId>
+            <AuthorId>data-gen-user-9yrrdy6f9weyjq3xmf05ijslg</AuthorId>
+            <IsSyndicated>false</IsSyndicated>
+        </Review>
+    </Results>
+    <HasErrors>false</HasErrors>
+    <Locale>en_US</Locale>
+    <Offset>0</Offset>
+    <Limit>10</Limit>
+    <TotalResults>19</TotalResults>
+</DataApiResponse>
